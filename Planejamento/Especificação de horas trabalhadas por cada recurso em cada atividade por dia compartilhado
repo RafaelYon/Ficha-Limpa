@@ -1,0 +1,34 @@
+# Planejamento:
+    - Dia 3:
+	*3->(A,B,C,D,E,F) - 2h;
+	*4->(E) - 4h;
+	*5->(A) - 2h;
+
+# Elaboração:
+    - Dia 9:
+	*4->(E) - 4h;
+	*5->(A) - 2h;
+
+# Construção:
+    - Dia 15:
+	*2.1->(B) - 6h;
+	*2.3->(C) - 6h;
+	*3->(A,B,C,D,E,F) - 2h;
+    - Dia 30:
+	*2.2->(D) - 6h;
+	*4->(A,B,C,D,E,F) - 2h;
+    - Dia 43:
+	*7->(A) - 2h;
+	*8->(A) - 6h;
+    - Dia 45:
+	*6->(A,B,C,D,E,F) - 2h;
+	*8->(A) - 6h;
+    - Dia 48:
+	*9->(E) - 4h;
+	*10->(A) - 2h;
+
+# Encerramento:
+    - Dia 54:
+	*2->(A,B,C,D,E,F) - 2h;
+	*3->(E) - 4h;
+	*4->(A) - 2h;
