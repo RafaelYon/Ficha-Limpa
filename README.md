@@ -1,6 +1,14 @@
 # Ficha Limpa
 Um projeto para a disciplina de Gestão de Projetos no curso de Análise e Desenvolvimento de Sistemas na Universidade Positivo, o qual consistiria em aplicativo fictício que reuniria informações sobre candidatos da eleição de maneira descentralizada. Estas informações seriam disponíbilizadas pelos usuários com suas respectivas referências.
 
+## Integrantes da Equipe:
+* Bruno Henrique
+* Gabriel Deina
+* Gustavo Gandin
+* Pedro Saad
+* Rafael Yon
+* Renato de Paula
+
 ## Repositório
 
 ### Versionamento Semântico
