@@ -1,5 +1,5 @@
 # Ficha Limpa
-Um aplicativo que reuniria informações sobre candidatos da eleição de maneira descentralizada, cada qual deverá ser informada pelos usuários com suas respectivas referenciadas.
+Um projeto para a disciplina de Gestão de Projetos no curso de Análise e Desenvolvimento de Sistemas na Universidade Positivo, o qual consistiria em aplicativo fictício que reuniria informações sobre candidatos da eleição de maneira descentralizada. Estas informações seriam disponíbilizadas pelos usuários com suas respectivas referências.
 
 ## Repositório
 
